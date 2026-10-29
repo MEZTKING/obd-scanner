@@ -17,3 +17,4 @@ dependencyResolutionManagement {
 rootProject.name = "obd-scanner"
 
 include(":core")
+include(":app")
